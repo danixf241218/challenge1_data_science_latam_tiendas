@@ -19,4 +19,4 @@ Para ejecutarlos:
 4. **Productos más y menos vendidos**: Se identifican los productos más y menos vendidos de cada tienda.  
 5. **Costo de envío promedio**: Se muestra el costo de envío promedio que debe pagar el cliente en cada tienda.  
 6. **Gráficos de barras y dispersión**: Se realizan gráficos para observar el comportamiento de las tiendas con diferentes variables y algunas comparaciones.  
-7. **Mapas de calor**: Se analiza en qué partes del país cada tienda tiene mayor cantidad de ingresos.
+7. **Mapas de calor**: Se analiza en qué partes del país cada tienda tiene mayor cantidad de ingresos, para visualizar los mapas se debe ejecutar el `.ipynb` en google colab .
