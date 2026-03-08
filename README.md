@@ -1,6 +1,6 @@
 # Desarrollo del Challenge de Alura Latam sobre Tiendas
 
-Este es el desarrollo del challenge propuesto por **Alura Latam** sobre las tiendas.
+Este es el desarrollo del challenge propuesto por **Alura Latam** sobre las tiendas tiene como objetivo analizar 4 tiendas y decirle al dueño de esas tiendas cual tienda deberia vender para lograr iniciar un nuevo emprendimiento.
 
 En este repositorio se encuentra la carpeta denominada `base-de-datos`. En esta carpeta están los archivos `.csv` con los datos a analizar sobre cada tienda, como el precio, el producto, la calificación de la tienda, entre otros.
 
